@@ -1,0 +1,14 @@
+﻿input[type=text],select,textarea
+{
+ border:lime green;
+  margin:15px;
+}
+input[type=radio]
+{
+  margin:15px;
+}
+input[type=checkbox]
+{
+ 
+  margin:15px;
+}
