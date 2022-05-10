@@ -1,6 +1,6 @@
 ﻿input[type=text],select,textarea
 {
- border:lime green;
+ border:1px solid green;
   margin:15px;
 }
 input[type=radio]
